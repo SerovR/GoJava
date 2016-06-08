@@ -1,4 +1,4 @@
-package ua.goit.gojavaonline.core_3.groupe_02.serov.module04;
+package ua.goit.gojavaonline.core_3.groupe_02.serov.module04.Zadacha3;
 
 import java.util.Scanner;
 
