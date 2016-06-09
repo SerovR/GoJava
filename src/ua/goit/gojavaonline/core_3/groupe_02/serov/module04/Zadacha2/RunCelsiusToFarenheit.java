@@ -4,9 +4,7 @@ import ua.goit.gojavaonline.core_3.groupe_02.serov.module04.Zadacha2.Temperature
 
 import java.util.Scanner;
 
-/**
- * Created by Роман on 08.06.2016.
- */
+
 public class RunCelsiusToFarenheit {
 
     public static void main(String[] args) {
