@@ -5,17 +5,12 @@ import java.util.Arrays;
 
 public class Run {
     public static void main(String[] args) {
-        int [] array = {2,3,8,6,34,23,13};
+        int[] array = {2, 3, 8, 6, 34, 23, 13};
         System.out.println("Min element in array = " + SearchMinMax.searchMin(array));
         System.out.println("Max element in array = " + SearchMinMax.searchMax(array));
-        for (int v : array)
-            System.out.println(v);
-
+        System.out.println("Изначальный массив: " + Arrays.toString(array));
         SortArray.sort(array);
-
-        for (int v : array)
-            System.out.println(v);
-
+        System.out.println("Отсортированый массив: " + Arrays.toString(array));
     }
 
 
