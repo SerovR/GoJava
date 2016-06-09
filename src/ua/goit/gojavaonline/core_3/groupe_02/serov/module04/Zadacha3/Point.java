@@ -1,9 +1,9 @@
 package ua.goit.gojavaonline.core_3.groupe_02.serov.module04.Zadacha3;
 
-public class Points {
+public class Point {
     private double x, y;
 
-    Points(double x, double y) {
+    Point(double x, double y) {
         this.x = x;
         this.y = y;
     }
